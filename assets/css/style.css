@@ -65,6 +65,11 @@ input#menu-hamburguesa:checked ~ ul {
   display: flex;
 }
 
+.hero a{
+  color: var(--grey-color);
+  font-style: none;
+  text-decoration: none;
+}
 
 
 .hero__navbar {
