@@ -74,7 +74,6 @@ input#menu-hamburguesa:checked ~ ul {
   color: var(--light-color);
 } 
 
-
 .hero__navbar {
   width: 100%;
   height: 50px;
@@ -109,7 +108,7 @@ input#menu-hamburguesa:checked ~ ul {
 }
 
 .hero__img-container img {
-  margin-top: 60px;
+  margin-top: 45px;
   width: 100%;
   height: 110%;
   border-radius: 50%;
@@ -308,8 +307,8 @@ footer{
       display: flex;
       flex-direction: row;
       height: auto;
-      justify-content: flex-end;
-      width: 100%;
+      justify-content: center;
+      width: 1080px;
   }
   .hero__navbar nav{
     padding: 0 0px;
@@ -327,7 +326,6 @@ footer{
     padding: 0 20px;
     display: flex;
     gap: 1.5rem;
-    /* margin: 0 15%; */
   }
   label{
     display: none;
