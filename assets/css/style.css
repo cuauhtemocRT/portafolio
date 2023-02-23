@@ -105,12 +105,13 @@ input#menu-hamburguesa:checked ~ ul {
   height: 250px;
   border-radius: 50%;
   margin-bottom: 1rem;
+  margin-top: 5rem;
 }
 
 .hero__img-container img {
   margin-top: 25px;
   width: 95%;
-  height: 120%;
+  height: 110%;
   border-radius: 50%;
   padding: 10px;
 }
